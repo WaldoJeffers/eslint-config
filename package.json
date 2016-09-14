@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-waldojeffers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My personal configuration for ESLint",
   "main": "index.js",
   "scripts": {
