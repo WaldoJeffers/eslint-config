@@ -1,5 +1,5 @@
 {
-  "name": "@waldojeffers/eslint-config-waldojeffers",
+  "name": "eslint-config-waldojeffers",
   "version": "1.0.1",
   "description": "My personal configuration for ESLint",
   "main": "index.js",
