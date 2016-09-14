@@ -1,4 +1,6 @@
 module.exports = {
-  'no-var'        : 2,
-  'prefer-const'  : 2
+  rules : {
+    'no-var'        : 2,
+    'prefer-const'  : 2
+  }
 };
