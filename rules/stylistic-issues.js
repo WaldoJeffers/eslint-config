@@ -4,12 +4,7 @@ module.exports = {
     'brace-style'   : 2,
     'comma-spacing' : 2,
     'indent'        : [2, 2],
-    'key-spacing'   : [2, {
-      'afterColon'    : true,
-      'align'         : 'colon',
-      'beforeColon'   : true,
-      'mode'          : 'minimum'
-    }],
+    'key-spacing'   : 2,
     'keyword-spacing' : [2, {
       'overrides' : {
         'else' : {
