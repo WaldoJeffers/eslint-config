@@ -1,5 +1,5 @@
 module.exports = {
-  extends : [
+  extends: [
     'eslint:recommended',
     'waldojeffers/rules/best-practices',
     'waldojeffers/rules/es6',

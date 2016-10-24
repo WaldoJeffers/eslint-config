@@ -10,7 +10,7 @@ This package provides my personal base JavaScript .eslintrc as an extensible sha
 `npm install --save eslint-config-waldojeffers`
 
 ## Usage
-Add `"extends : "waldojeffers"` to you **local** .eslintrc file. If you want to enable rules specific to ES6 or Node.js, you need to specify it in the `env` option in your `.eslintrc.*` file as follows :
+Add `"extends" : "waldojeffers"` to you **local** .eslintrc file. If you want to enable rules specific to ES6 or Node.js, you need to specify it in the `env` option in your `.eslintrc.*` file as follows :
 ```json
 {
   "env": {
