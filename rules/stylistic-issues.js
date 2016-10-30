@@ -3,7 +3,7 @@ module.exports = {
     'block-spacing': 2,
     'brace-style': 2,
     'comma-spacing': 2,
-    'indent': [2, 2],
+    'indent': [2, 2, {"SwitchCase": 1}],
     'key-spacing': 2,
     'keyword-spacing': [2, {
       'overrides': {
